@@ -1,5 +1,5 @@
 ## A Leetcode a day keeps the unemployment away.
 #### Current Tally: 
-Easy (6) 
-Medium (7) 
+Easy (7) 
+Medium (8) 
 Hard (0) 
